@@ -1,0 +1,6 @@
+=>crer api
+rails new api --api
+
+=> crear el MVC de un objeto o clase
+rails g scaffold <NombreCLase> <NombreAtributo>:<TipoDeDatoDeAtributo> 
+ejemplo: rails g scaffold Alimento nombre:string
